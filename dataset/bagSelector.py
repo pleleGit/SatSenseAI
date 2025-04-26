@@ -11,7 +11,7 @@ def form_bags(root):
     os.makedirs(new_root, exist_ok=True)
     # collect all existing countries in 'images' directory
     countries = [f for f in os.listdir(base_root) if os.path.isdir(os.path.join(base_root, f))]
-    years = range(2014, 2023)  # from 2014 to 2024 inclusive
+    years = range(2014, 2024)  # from 2014 to 2024 inclusive
     for cntr in countries:
         c_path = os.path.join(base_root, cntr)
         if not os.path.isdir(c_path):
