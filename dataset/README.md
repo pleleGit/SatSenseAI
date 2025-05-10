@@ -30,7 +30,7 @@ This repository provides three datasets prepared for satellite imagery-based mac
 
 ## 🔗 Download Link
 
- [Download `bags.zip` via Google Drive](https://drive.google.com/file/d/1hiY19tUgpyGl8VhAWvalTCsV82TTA9no/view?usp=sharing)
+ [Download `bags.zip` via Google Drive](https://drive.google.com/file/d/1Ujgrjf1bV2gNtmXBsUfb40O2UMlhig_r/view?usp=sharing)
 
 ---
 
@@ -45,7 +45,7 @@ This repository provides three datasets prepared for satellite imagery-based mac
 
 ## 🔗 Download Link
 
- [Download `bagsAugmented.zip` via Google Drive](https://drive.google.com/file/d/1bMwHCuVMAhl_wkU83ABzJJpOhpyOCtAJ/view?usp=sharing)
+ [Download `bagsAugmented.zip` via Google Drive](https://drive.google.com/file/d/1HW37TJRgiLF_nukB5NEOh2CxdugDq1K5/view?usp=sharing)
 
 ---
 
