@@ -4,7 +4,7 @@ electricity_consumption_per_capita_index:
   Belgium: [1, 1, 1, 1, 1, 1, 1, 1, 1]
   Bosnia: [0, 0, 0, 0, 0, 0, 0, 0, 0]
   Bulgaria: [0, 0, 0, 0, 0, 0, 0, 0, 0]
-  England: [0, 0, 0, 0, 0]  # as UK (missing 2020-2023)
+  England: [0, 0, 0, 0, 0, 0, 0, 0, 0]
   France: [1, 1, 1, 1, 1, 1, 1, 1, 1]
   FYROM: [0, 0, 0, 0, 0, 0, 0, 0, 0]
   Germany: [1, 1, 1, 1, 1, 1, 1, 1, 1]
@@ -16,7 +16,7 @@ electricity_consumption_per_capita_index:
   Poland: [0, 0, 0, 0, 0, 0, 0, 0, 0]
   Portugal: [0, 0, 0, 0, 0, 0, 0, 0, 0]
   Romania: [0, 0, 0, 0, 0, 0, 0, 0, 0]
-  Serbia: [0, 0, 0, 0, 0, 0, 0, 0] # missing 2023
+  Serbia: [0, 0, 0, 0, 0, 0, 0, 0, 0]
   Spain: [0, 0, 0, 0, 0, 0, 0, 0, 0]
 # time span 2015-2023
 # European Union [5705.055, 5762.868, 5809.608, 5802.934, 5728.499, 5495.515, 5754.022, 5567.518, 5368.869]
